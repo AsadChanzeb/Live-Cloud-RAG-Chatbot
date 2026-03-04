@@ -1,0 +1,9 @@
+pypdf
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-ollama
+chromadb
+pytest
+boto3
