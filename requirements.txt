@@ -1,9 +1,14 @@
+flask
+werkzeug
+gunicorn
 pypdf
 langchain
 langchain-community
 langchain-chroma
 langchain-text-splitters
-langchain-ollama
+langchain-openai
+langchain-google-genai
+langchain-groq
 chromadb
-pytest
-boto3
+python-dotenv
+requests

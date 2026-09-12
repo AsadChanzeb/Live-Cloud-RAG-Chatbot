@@ -1,0 +1,13 @@
+.git
+.gitignore
+.venv
+venv311
+__pycache__
+*.pyc
+.env
+chroma
+test_*.txt
+test_*.py
+scratch
+IMPLEMENTATION_PLAN.md
+README.md

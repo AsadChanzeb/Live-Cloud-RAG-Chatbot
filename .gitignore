@@ -1,4 +1,23 @@
+# Virtual environments
+.venv/
+venv311/
+
+# Byte-compiled / cache files
+__pycache__/
 *.pyc
+
+# Environment secrets
+.env
+**/.env
+
+# Local databases & testing
+chroma/
+test_*.txt
+test_*.py
+
+# Other projects
+gobind_rag/
+
+# OS files
 .DS_Store
-backup
-chroma
+Thumbs.db
