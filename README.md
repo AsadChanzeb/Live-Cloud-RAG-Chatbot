@@ -7,6 +7,8 @@
 [![Groq](https://img.shields.io/badge/Groq-Llama_3.3_70B-F55036?style=for-the-badge)](https://groq.com/)
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Render](https://img.shields.io/badge/Render-Cloud_Ready-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/AsadChanzeb/Live-Cloud-RAG-Chatbot)
 
 A modern, high-performance **Retrieval-Augmented Generation (RAG)** web application and conversational assistant. Powered by **Jina AI Embeddings v3**, **ChromaDB vector database**, and **Groq Cloud LLMs (Llama 3.3 70B)** with real-time Server-Sent Events (SSE) streaming and a glassmorphism web interface.
 
