@@ -31,6 +31,7 @@ A modern, high-performance **Retrieval-Augmented Generation (RAG)** web applicat
 - [API Reference](#-api-reference)
 - [Docker Deployment](#-docker-deployment)
 - [Deploy to Render Cloud](#-deploy-to-render-cloud)
+- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -321,7 +322,19 @@ Access the service at `http://localhost:8000`.
 3. Add `JINA_API_KEY` and `GROQ_API_KEY` under **Environment Variables**.
 4. Deploy!
 
-For in-depth deployment steps and troubleshooting, see [RENDER_DEPLOYMENT_GUIDE.md](file:///d:/Rag%20Live/RENDER_DEPLOYMENT_GUIDE.md).
+For in-depth deployment steps and troubleshooting, see [RENDER_DEPLOYMENT_GUIDE.md](RENDER_DEPLOYMENT_GUIDE.md).
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'feat: add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
