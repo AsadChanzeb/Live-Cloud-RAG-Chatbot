@@ -338,6 +338,14 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
+## 👤 Author
+
+- GitHub: [@AsadChanzeb](https://github.com/AsadChanzeb)
+
+If you find this repository useful, consider giving it a ⭐️!
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute for personal and commercial projects.
